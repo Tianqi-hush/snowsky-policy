@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "versionCode": 10,
+  "versionName": "4.1",
+  "apkUrl": "https://github.com/Tianqi-hush/snowsky-policy/releases/download/v4.1/SnowSky-v4.1.apk",
+  "sha256": "5a125f779302a0f483ad842d81cb57059ba09df524795e96bed77500c72b5e97",
+  "notes": "原生加密加固、动态证书策略、软件更新提醒。",
+  "mandatory": false
+}
