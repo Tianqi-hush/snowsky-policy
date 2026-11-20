@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "versionCode": 11,
-  "versionName": "4.2",
-  "apkUrl": "https://github.com/Tianqi-hush/snowsky-policy/releases/download/v4.2/SnowSky-v4.2.apk",
-  "sha256": "928d6f2820f946eb3c6f6f1c7bc624ea9b01dc4183ea42f063b8b0ca10c7e436",
-  "notes": "用户版与管理版拆分：用户包移除全部管理代码；动态证书策略、签名校验更新、原生加密保留。",
+  "versionCode": 12,
+  "versionName": "4.3",
+  "apkUrl": "https://github.com/Tianqi-hush/snowsky-policy/releases/download/v4.3/SnowSky-v4.3.apk",
+  "sha256": "e28a598c1c938d0680d12274a72df77a46a06f1b5bce76845a93881edd2b19bf",
+  "notes": "用户版增加防截图/防最近任务快照；用户包不包含任何管理代码；动态证书策略、签名更新校验保留。",
   "mandatory": false
 }
